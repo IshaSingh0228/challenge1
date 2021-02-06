@@ -10,7 +10,10 @@ int b=20;
 System.out.println("adding two numbers:"+(a+b));
 //subtract
 System.out.println("subtracting:"+(b-a));
-
+//multiplication
+System.out.println("multiply:"+(a*b));
+//division
+System.out.println("division:"+(a/b));
 
 	}
 
