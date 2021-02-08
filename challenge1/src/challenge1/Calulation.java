@@ -14,6 +14,8 @@ System.out.println("subtracting:"+(b-a));
 System.out.println("multiply:"+(a*b));
 //division
 System.out.println("division:"+(a/b));
+//exponent
+System.out.println("exponent");
 
 	}
 
